@@ -1,7 +1,7 @@
 # README – Document Lifecycle State Machine
 
 **Overview:**
-![Untitled diagram-2025-01-28-055316](https://github.com/user-attachments/assets/0c4f2281-9b72-455f-b11b-4781176cff33)
+![Untitled diagram-2025-01-28-055316](https://github.com/user-attachments/assets/5abc060a-23c0-4d19-b9e7-8f5c40d9ec31)
 
 This code focuses on demonstrating the state transitions, exception handling, and how an Aspect can be used to manage infrastructure errors.
 
