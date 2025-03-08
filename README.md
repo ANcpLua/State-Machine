@@ -1,4 +1,4 @@
-# README – Document Lifecycle State Machine
+# README – Document Lifecycle State
 
 **Overview:**
 ![Untitled diagram-2025-01-28-055316](https://github.com/user-attachments/assets/5abc060a-23c0-4d19-b9e7-8f5c40d9ec31)
